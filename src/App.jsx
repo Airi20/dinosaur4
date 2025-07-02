@@ -255,7 +255,7 @@ export default function DinoGame() {
             textAlign: "center",
           }}
         >
-          <p>ジャンプできた</p>
+         
           <button
             onClick={() => {
               setStarted(true);
