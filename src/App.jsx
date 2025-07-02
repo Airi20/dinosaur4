@@ -286,7 +286,7 @@ export default function DinoGame() {
             transform: "translate(-50%, -50%)",
             backgroundColor: "rgba(0,0,0,0.7)",
             color: "white",
-            padding: "20px",
+            padding: "5px",
             borderRadius: "10px",
             fontSize: "18px",
             textAlign: "center",
@@ -315,12 +315,13 @@ export default function DinoGame() {
         </div>
       )}
 
-      <p style={{ position: "absolute", top: 0, left: 10 }}>
+      <p style={{ position: "absolute", top: 0, left: 10, color: "green" }}>
         スペースキー / タップでジャンプ！
       </p>
-      <p style={{ position: "absolute", top: 0, right: 10, fontWeight: "bold" }}>
+      <p style={{ position: "absolute", top: 0, right: 10, fontWeight: "bold", color: "green" }}>
         {distance} m
       </p>
+
     </div>
   );
 }
