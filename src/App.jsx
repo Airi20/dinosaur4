@@ -203,7 +203,7 @@ export default function DinoGame() {
         width: "600px",
         border: "2px solid black",
         overflow: "hidden",
-        backgroundColor: "#eee",
+        backgroundColor: "#d8f3dc",
         userSelect: "none",
         touchAction: "manipulation",
       }}
@@ -251,11 +251,11 @@ export default function DinoGame() {
             color: "white",
             padding: "20px",
             borderRadius: "10px",
-            fontSize: "24px",
+            fontSize: "18px",
             textAlign: "center",
           }}
         >
-          <p>ジャンプするだけのげーむ（デザイナー求ム）</p>
+          <p>ジャンプできた</p>
           <button
             onClick={() => {
               setStarted(true);
@@ -288,7 +288,7 @@ export default function DinoGame() {
             color: "white",
             padding: "20px",
             borderRadius: "10px",
-            fontSize: "24px",
+            fontSize: "18px",
             textAlign: "center",
           }}
         >
