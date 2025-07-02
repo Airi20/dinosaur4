@@ -6,6 +6,11 @@ const obstacleImages = {
     "/obstacles/cactus3.jpg",
     "/obstacles/cactus4.jpg",
     "/obstacles/cactus5.jpg",
+    "/obstacles/cactus6.jpg",
+    "/obstacles/cactus7.jpg",
+    "/obstacles/cactus8.jpg",
+    "/obstacles/cactus9.jpg",
+    "/obstacles/cactus10.jpg",
   ],
 };
 
