@@ -247,8 +247,8 @@ export default function DinoGame() {
             top: "40%",
             left: "50%",
             transform: "translate(-50%, -50%)",
-            backgroundColor: "rgba(0,0,0,0.7)",
-            color: "white",
+            
+            color: "green",
             padding: "20px",
             borderRadius: "10px",
             fontSize: "18px",
@@ -284,8 +284,8 @@ export default function DinoGame() {
             top: "40%",
             left: "50%",
             transform: "translate(-50%, -50%)",
-            backgroundColor: "rgba(0,0,0,0.7)",
-            color: "white",
+            
+            color: "green",
             padding: "5px",
             borderRadius: "10px",
             fontSize: "18px",
