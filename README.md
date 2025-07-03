@@ -1,3 +1,5 @@
+[🇯🇵 日本語](README.jp.md) | [🇺🇸 English](README.md) 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
