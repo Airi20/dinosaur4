@@ -1,27 +1,47 @@
-[🇯🇵 日本語](README.jp.md) | [🇺🇸 English](README.md) 
+### 🌵 The Classic "Dino Jump" Game, Reimagined!
 
+![Start](start.jpg)  
+![Game Over](gameover.jpg)
 
+You know that offline Chrome game where the dinosaur jumps over cacti?  
+Yeah, I recreated that — but with **background music**, a bit of flair, and some personal touches 🎮🎶
 
+▶️ [**Play it here**](https://dinosaur4.vercel.app)
 
-![スタート](start.jpg)
-![ゲームオーバー](gameover.jpg)
+[🇯🇵 Japanese](README.jp.md) | [🇺🇸 English](README.md)
 
+---
 
+## ⚛️ React + Vite
 
-# React + Vite
+This template provides a minimal setup to get React running with Vite.  
+It comes pre-configured with Hot Module Replacement (HMR) and ESLint rules for faster development.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Currently supported official plugins:
 
-Currently, two official plugins are available:
+- [`@vitejs/plugin-react`](https://github.com/vitejs/vite-plugin-react): Uses Babel to enable Fast Refresh
+- [`@vitejs/plugin-react-swc`](https://github.com/vitejs/vite-plugin-react-swc): Uses SWC to enable Fast Refresh
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🧹 Recommended ESLint Enhancements
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+For production-ready apps, I highly recommend using **TypeScript** with **type-aware linting**.
 
-## 🎵 BGM
+You can integrate:
+- `typescript`
+- `@typescript-eslint`
 
-The background music is a fan-made MIDI arrangement of a theme from the Super Mario series.
-I recreated it by ear using Studio One, but the original composition is by Nintendo.
+Check out the official [TypeScript template](https://vitejs.dev/guide/#scaffolding-your-first-vite-project) for a quick start!
+
+---
+
+## 🎵 Background Music
+
+The BGM is a **fan-made MIDI arrangement** of a Mario series track.  
+I recreated it by ear using **Studio One** just for fun — purely for non-commercial, nostalgic purposes.  
+All rights to the original music belong to **Nintendo**.
+
+---
+
+📌 Found a bug? Feel free to open an Issue or PR. Contributions are welcome!
