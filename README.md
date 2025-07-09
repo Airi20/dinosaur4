@@ -4,7 +4,10 @@
 
 
 
-！[スタート](/.start.jpg)
+![スタート](./.start.jpg)
+
+![ゲームオーバー](./.gameover.jpg)
+
 
 # React + Vite
 
